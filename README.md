@@ -10,6 +10,7 @@ Each row in the data represents a lottery registration, which may or may not cor
 
 An approved H-1B petition is necessary for, but does not always result in, an H-1B visa, which is a travel document. After an applicant receives an H-1B approval from the USCIS, they can apply for either an H-1B visa at a US Consulate abroad or an Adjustment of Status with the USCIS if they're already in the US.
 
+Please cite the data as sourced from USCIS and obtained by Bloomberg. Email Bloomberg reporter Eric Fan at `xfan134@bloomberg.net` if you have any questions.
 
 
 | File Name | Description |
@@ -21,5 +22,3 @@ An approved H-1B petition is necessary for, but does not always result in, an H-
 | `TRK_13139_FY2024_single_reg.csv` | FY 2024 data (April 2023 lottery), single registrations |
 | `TRK_13139_FY2024_multi_reg.csv` | FY 2024 data (April 2023 lottery), multiple registrations |
 
-
-Please cite the data as sourced from USCIS and obtained by Bloomberg. Email Bloomberg reporter Eric Fan at `xfan134@bloomberg.net` if you have any questions.
