@@ -2,7 +2,7 @@
 
 Bloomberg News obtained data on all H-1B lottery registrations, selections, and petitions for fiscal years 2021 through 2024 after bringing a lawsuit against the Department of Homeland Security under the Freedom of Information Act. 
 
-You can use this repository to reproduce findings featured in our story "[Thousands of US Work Visas Are Going to Middlemen Gaming the System](LINK)". Our methodology is described at the bottom of the article. 
+You can use this repository to reproduce findings featured in our story "[Thousands of US Work Visas Are Going to Middlemen Gaming the System](https://www.bloomberg.com/graphics/2024-staffing-firms-game-h1b-visa-lottery-system/)". Our methodology is described at the bottom of the article. 
 
 ## Background
 
