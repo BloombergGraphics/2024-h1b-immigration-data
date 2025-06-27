@@ -1,3 +1,7 @@
+# June 2025 Update
+
+Following the publication of our latest story "[H-1B Middlemen Bring Cheap Labor to Citi, Capital One](https://www.bloomberg.com/graphics/2025-h1b-visa-middlemen-cheap-labor-for-us-banks/)", we're providing an updated version of the data with an **un-redacted "DOL_ETA_CASE_NUMBER" column**. You can now link this data with [Labor Condition Application data](https://www.dol.gov/agencies/eta/foreign-labor/performance) publicly released by the DOL to gain additional information about end clients, prevailing wages and more.
+
 # US H-1B Visa Lottery and Petition Data FY 2021 - FY 2024
 
 Bloomberg News obtained data on all H-1B lottery registrations, selections, and petitions for fiscal years 2021 through 2024 after bringing a lawsuit against the Department of Homeland Security under the Freedom of Information Act. 
@@ -23,7 +27,7 @@ Please cite the data as sourced from USCIS and obtained by Bloomberg. Email Bloo
 | `TRK_13139_I129_H1B_Registrations_FY21_FY24_FOIA_FIN.xlsx` | Data Dictionary |
 | `TRK_13139_FY2021.csv` | FY 2021 data (April 2020 lottery) |
 | `TRK_13139_FY2022.csv` | FY 2022 data (April 2021 lottery) |
-| `TRK_13139_FY2023.csv` | FY 2023 data (April 2022 lottery) |
+| `TRK_13139_FY2023.csv` | FY 2023 data (April 2022 lottery; this large file is borken into 3 zip files) | 
 | `TRK_13139_FY2024_single_reg.csv` | FY 2024 data (April 2023 lottery), single registrations |
 | `TRK_13139_FY2024_multi_reg.csv` | FY 2024 data (April 2023 lottery), multiple registrations |
 
